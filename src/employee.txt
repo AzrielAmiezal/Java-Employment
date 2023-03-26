@@ -1,0 +1,5 @@
+Roger Edwin;32;Male;Married;Industrial;1;2500.00
+Azriel Amiezal;24;Male;Single;Information;2;3500.00
+Steve Roger;29;Male;Married;Industrial;1;2800.00
+George Paul;42;Male;Single;Industrial;2;3400.00
+Anna J;38;Female;Single;Information;1;2900.00
